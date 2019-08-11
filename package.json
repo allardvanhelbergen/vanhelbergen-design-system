@@ -1,0 +1,16 @@
+{
+  "name": "@vanhelbergen/design-system",
+  "description": "Allard's design system website.",
+  "author": "Allard van Helbergen",
+  "license": "WTFPL",
+  "scripts": {
+    "develop": "catalog start",
+    "build": "catalog build"
+  },
+  "dependencies": {
+    "@vanhelbergen/design-tokens": "^0.0.2",
+    "catalog": "^3.6.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
